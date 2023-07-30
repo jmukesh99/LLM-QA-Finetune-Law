@@ -80,7 +80,7 @@
         "Answer": "B"
     },
     {
-        "Question": "9. \"Hadees' is one of the sources of Muslim law it comprises",
+        "Question": "9.  'Hadees' is one of the sources of Muslim law it comprises",
         "Option": [
             "a) Very words of god",
             "b) Words and actions of the prophet",
@@ -104,7 +104,7 @@
         "Option": [
             "a) 6 Month",
             "b) 12 Month",
-            "c)",
+            "c) 18 Month",
             "d) 24 Month"
         ],
         "Answer": "A"
@@ -430,9 +430,8 @@
         "Answer": "C"
     },
     {
-        "Question": "44. \"Industrial establishment\" means-",
+        "Question": "44. 'Industrial establishment' means- i) A factory ii) Amine iii) A plantation iv) An industry",
         "Option": [
-            "i) A factory",
             "a) (i), (ii) , (iii), (iv)",
             "b) (i), (ii), (iii)",
             "c) (i) and (ii)",
@@ -451,9 +450,8 @@
         "Answer": "B"
     },
     {
-        "Question": "46. Industrial relations cover the following area(s)",
+        "Question": "46. Industrial relations cover the following area(s) i) Collective bargaining ii) Labour legislation iii) Industrial relations training iv) Trade unions",
         "Option": [
-            "i) Collective bargaining",
             "a) (i)",
             "b) (i) and (i)",
             "c) (i), (i) and (ii)",
@@ -484,10 +482,10 @@
     {
         "Question": "49. A suit brought by a person to recover possession from a stranger of matth property claiming it as heir of the deceased Mahant. The suit is dismissed on his failure to produce the succession certificate. A second suit was filed by him . as manager of the math.",
         "Option": [
-            "a)",
-            "b)",
-            "c)",
-            "d)"
+            "a) The second suit would be barred by Res Judicata",
+            "b) The second suit would not be barred by Res Judicata",
+            "c) The second suit would be barred by Res sub Judicae",
+            "d) None of the above"
         ],
         "Answer": "B"
     },
@@ -632,13 +630,12 @@
         "Answer": "B"
     },
     {
-        "Question": "64. A suit may be dismissed under order IX",
+        "Question": "64. A suit may be dismissed under order IX i) Where the summons is not served upon the defendant in consequence of the plaintiffs failure to pay costs for service of summons (Rule 2) ii) where neither the plaintiff nor the defendant appears (Rule 3) iii) Where plaintiff, after summons returned unserved, fail for 7 days to apply for fresh summons (Rule 5) iv) Where on the date fixed for hearing in a suit only defendant appears and he does not admit the plaintiff's claim. (Rule 8)",
         "Option": [
-            "i) Where the summons is not served upon the defendant in consequence of the plaintiffs failure to pay costs for service of summons (Rule 2)",
             "a) I, II and III.",
             "b) I, III and IV.",
             "c) I, III and IV.",
-            "d) All of the above."
+           " d) All of the above."
         ],
         "Answer": "D"
     },
@@ -703,13 +700,12 @@
         "Answer": "B"
     },
     {
-        "Question": "71. 'Industrial dispute' means any dispute or difference between",
+        "Question": "71. 'Industrial dispute' means any dispute or difference between i) Employers and employers ii) Employers and workmen iii) Workmen and workmen iv) Master and worker",
         "Option": [
-            "i) Employers and employers",
             "a) (i) and (ii)",
             "b) (iv)",
             "c) (i), (i),(ii) and (iv)",
-            "d) (i), (ii) and (i)"
+            "d) (i), (ii) and (iii)"
         ],
         "Answer": "D"
     },
